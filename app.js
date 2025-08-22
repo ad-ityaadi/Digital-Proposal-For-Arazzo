@@ -50,7 +50,7 @@ class InstagramDashboard {
                         "Content Strategy",
                         "Graphic Design", 
                         "Video Editing",
-                        "3x Shoots Days/Month",
+                        "3x Shoot Days/Month",
                         "Maximum of 30 contents pushed out per month"
                     ],
                     perks: [
@@ -71,8 +71,8 @@ class InstagramDashboard {
                         "Content Strategy",
                         "Graphic Design",
                         "Video Editing",
-                        "5x Shoots Days/Month", 
-                        "Maximum of 30 contents pushed out per month"
+                        "5x Shoot Days/Month", 
+                        "Maximum of 40 contents pushed out per month"
                     ],
                     perks: [
                         "Shoots outside of Kolkata can be accommodated",
